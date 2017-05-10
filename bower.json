@@ -1,0 +1,20 @@
+{
+  "name": "ape-blog",
+  "authors": [
+    "Orkiv"
+  ],
+  "description": "Ape-blog is an AngularJS blogging module. ",
+  "main": "ape-blog.js",
+  "keywords": [
+    "rest",
+    "angular",
+    "client",
+    "blog"
+  ],
+  "license": "MIT",
+  "homepage": "https://orkiv.com/",
+  "dependencies": {
+    "angular"  : "^1.3.0",
+    "ape-js" : ""
+  }
+}
