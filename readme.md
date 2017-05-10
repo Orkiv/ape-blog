@@ -31,9 +31,9 @@ Or download the package directly [here](https://github.com/Orkiv/ape-js/archive/
 
 # Getting Started
 
-Insert this tag  after your angularjs tag :
+Insert these tags  after your angularjs tag :
 
-		<script type="text/javascript" src="bower_components/ape-js/ape.js"></script>
+	<script type="text/javascript" src="bower_components/ape-js/ape.js"></script>
 	<script type="text/javascript" src="bower_components/ape-blog/ape-blog.js"></script>
 	/*
 	OR
