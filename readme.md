@@ -93,7 +93,7 @@ List blog groups from Sapphire account.
 
 callback - function ran once data is retrieved from Sapphire. On error the value passed, `group`, is set to false.
 
-### Blogs - function(query [Query](#query), callback function(blogs array[[Query response](#query-response)] )  )
+### Blogs - function(query [Query](#query), callback function(blogs [Query response](#query-response) )  )
 
 List blogs from Sapphire.
 
