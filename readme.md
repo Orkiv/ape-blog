@@ -28,9 +28,8 @@ Ape-blog is an AngularJS blogging module.
 
 Or download the package directly [here](https://github.com/Orkiv/ape-blog/archive/master.zip) 
 
-# Getting Started
 
-Insert these tags  after your angularjs tag :
+### Insert these tags  after your angularjs tag :
 
 	<script type="text/javascript" src="bower_components/ape-js/ape.js"></script>
 	<script type="text/javascript" src="bower_components/ape-blog/ape-blog.js"></script>
