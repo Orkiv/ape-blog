@@ -1,8 +1,7 @@
-![Sapphire Blog](https://github.com/Orkiv/serverless-blog/raw/master/Screen%20Shot%202017-03-15%20at%2010.13.06%20AM.png)
-
 # Ape-Blog
 
 Ape-blog is an AngularJS blogging module. 
+![Ape-Blog](https://github.com/Orkiv/ape-blog/raw/master/img.png)
 
 # Index
 
@@ -21,13 +20,13 @@ Ape-blog is an AngularJS blogging module.
 
 #### Via bower
 
-	bower install ape-js
+	bower install ape-blog
 
 #### Via npm 
 
-	npm install ape-js
+	npm install ape-blog
 
-Or download the package directly [here](https://github.com/Orkiv/ape-js/archive/master.zip) 
+Or download the package directly [here](https://github.com/Orkiv/ape-blog/archive/master.zip) 
 
 # Getting Started
 
